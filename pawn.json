@@ -1,0 +1,11 @@
+{
+    "user": "eidorian",
+    "repo": "sky",
+    "resources": [
+        
+    ],
+    "contributors": ["oscar-broman"],
+    "runtime": {
+        "plugins": ["oscar-broman/SKY"]
+    }
+}
